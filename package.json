@@ -1,0 +1,23 @@
+{
+  "name": "amendmoji",
+  "version": "0.1.0",
+  "description": "Edits the message of your latest commit message adding a cool emoji",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gimenete/amendmoji.git"
+  },
+  "keywords": [],
+  "author": "Alberto Gimeno <gimenete@gimenete.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gimenete/amendmoji/issues"
+  },
+  "homepage": "https://github.com/gimenete/amendmoji#readme",
+  "bin": {
+    "amendmoji": "index.js"
+  }
+}
